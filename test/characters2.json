@@ -1,0 +1,38 @@
+[
+    {
+        "name": "Ant-Man",
+        "realName": ["Scott Lang"],
+        "img": "ant_man.jpg",
+        "abilities": ["Size manipulation", "Strength augmentation"],
+        "description": "Scott Lang becomes the size-changing superhero Ant-Man, armed with a suit that allows him to shrink in size.",
+        "team": ["Avengers"],
+        "appearances": ["Ant-Man", "Captain America: Civil War", "Ant-Man and The Wasp", "Avengers: Endgame"]
+    },
+    {
+        "name": "Wasp",
+        "realName": ["Hope van Dyne"],
+        "img": "wasp.jpg",
+        "abilities": ["Size manipulation", "Flight", "Bio-electric blasts"],
+        "description": "Hope van Dyne, daughter of Hank Pym, becomes the superhero Wasp, equipped with a suit that grants her the ability to shrink and fly.",
+        "team": ["Avengers"],
+        "appearances": ["Ant-Man", "Ant-Man and The Wasp", "Avengers: Endgame"]
+    },
+    {
+        "name": "Scarlet Witch",
+        "realName": ["Wanda Maximoff"],
+        "img": "scarlet_witch.jpg",
+        "abilities": ["Reality manipulation", "Energy manipulation", "Telekinesis"],
+        "description": "Wanda Maximoff, also known as Scarlet Witch, possesses incredible reality-altering powers.",
+        "team": ["Avengers"],
+        "appearances": ["Captain America: The Winter Soldier", "Avengers: Age of Ultron", "Captain America: Civil War", "Avengers: Infinity War", "Avengers: Endgame"]
+    },
+    {
+        "name": "Quicksilver",
+        "realName": ["Pietro Maximoff"],
+        "img": "quicksilver.jpg",
+        "abilities": ["Superhuman speed"],
+        "description": "Pietro Maximoff, also known as Quicksilver, possesses superhuman speed, making him one of the fastest beings on Earth.",
+        "team": ["Avengers"],
+        "appearances": ["Captain America: The Winter Soldier", "Avengers: Age of Ultron"]
+    }
+]

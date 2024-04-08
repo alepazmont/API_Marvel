@@ -1,0 +1,56 @@
+[
+    {
+        "title": "Iron Man",
+        "poster": "iron_man_poster.jpg",
+        "releaseYear": 2008,
+        "director": "Jon Favreau",
+        "characters": ["Iron Man", "Pepper Potts", "James Rhodes", "Obadiah Stane"],
+        "description": "After being held captive in an Afghan cave, billionaire engineer Tony Stark creates a unique weaponized suit of armor to fight evil.",
+        "boxOfficeRevenue": 585.2
+    },
+    {
+        "title": "The Incredible Hulk",
+        "poster": "hulk_poster.jpg",
+        "releaseYear": 2008,
+        "director": "Louis Leterrier",
+        "characters": ["Hulk", "Bruce Banner", "Betty Ross", "General Thaddeus Ross", "Emil Blonsky"],
+        "description": "Bruce Banner, a scientist on the run from the U.S. Government, must find a cure for the monster he turns into whenever he loses his temper.",
+        "boxOfficeRevenue": 263.4
+    },
+    {
+        "title": "Iron Man 2",
+        "poster": "iron_man_2_poster.jpg",
+        "releaseYear": 2010,
+        "director": "Jon Favreau",
+        "characters": ["Iron Man", "Pepper Potts", "James Rhodes", "Nick Fury", "Black Widow", "Whiplash", "Justin Hammer"],
+        "description": "With the world now aware of his identity as Iron Man, Tony Stark must contend with both his declining health and a vengeful mad man with ties to his father's legacy.",
+        "boxOfficeRevenue": 623.9
+    },
+    {
+        "title": "Thor",
+        "poster": "thor_poster.jpg",
+        "releaseYear": 2011,
+        "director": "Kenneth Branagh",
+        "characters": ["Thor", "Loki", "Odin", "Jane Foster", "Heimdall", "Sif"],
+        "description": "The powerful but arrogant god Thor is cast out of Asgard to live amongst humans in Midgard (Earth), where he soon becomes one of their finest defenders.",
+        "boxOfficeRevenue": 449.3
+    },
+    {
+        "title": "Captain America: The First Avenger",
+        "poster": "captain_america_poster.jpg",
+        "releaseYear": 2011,
+        "director": "Joe Johnston",
+        "characters": ["Captain America", "Peggy Carter", "Red Skull", "Bucky Barnes", "Howard Stark"],
+        "description": "Steve Rogers, a rejected military soldier, transforms into Captain America after taking a dose of a 'Super-Soldier serum'. But being Captain America comes at a price as he attempts to take down a war monger and a terrorist organization.",
+        "boxOfficeRevenue": 370.6
+    },
+    {
+        "title": "The Avengers",
+        "poster": "avengers_poster.jpg",
+        "releaseYear": 2012,
+        "director": "Joss Whedon",
+        "characters": ["Iron Man", "Captain America", "Thor", "Hulk", "Black Widow", "Hawkeye", "Loki", "Nick Fury", "Agent Coulson", "Maria Hill"],
+        "description": "Earth's mightiest heroes must come together and learn to fight as a team if they are going to stop the mischievous Loki and his alien army from enslaving humanity.",
+        "boxOfficeRevenue": 1519.6
+    }
+]

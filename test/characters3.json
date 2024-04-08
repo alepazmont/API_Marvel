@@ -1,0 +1,38 @@
+[
+    {
+        "name": "Doctor Strange",
+        "realName": ["Stephen Strange"],
+        "img": "doctor_strange.jpg",
+        "abilities": ["Mastery of the mystic arts", "Sling Ring manipulation", "Time manipulation"],
+        "description": "Former neurosurgeon Stephen Strange becomes the Sorcerer Supreme after a career-ending car accident, mastering the mystic arts to protect reality.",
+        "team": ["Avengers"],
+        "appearances": ["Doctor Strange", "Thor: Ragnarok", "Avengers: Infinity War", "Avengers: Endgame"]
+    },
+    {
+        "name": "Black Panther",
+        "realName": ["T'Challa"],
+        "img": "black_panther.jpg",
+        "abilities": ["Enhanced strength", "Agility", "Vibranium suit"],
+        "description": "T'Challa, heir to the throne of Wakanda, becomes the Black Panther, protector of his nation and warrior king.",
+        "team": ["Avengers"],
+        "appearances": ["Captain America: Civil War", "Black Panther", "Avengers: Infinity War", "Avengers: Endgame"]
+    },
+    {
+        "name": "Spider-Man",
+        "realName": ["Peter Parker"],
+        "img": "spider_man.jpg",
+        "abilities": ["Wall-crawling", "Superhuman strength", "Spider-sense"],
+        "description": "High school student Peter Parker gains spider-like abilities after being bitten by a radioactive spider, becoming the superhero Spider-Man.",
+        "team": ["Avengers"],
+        "appearances": ["Captain America: Civil War", "Spider-Man: Homecoming", "Avengers: Infinity War", "Avengers: Endgame"]
+    },
+    {
+        "name": "Captain Marvel",
+        "realName": ["Carol Danvers"],
+        "img": "captain_marvel.jpg",
+        "abilities": ["Flight", "Superhuman strength", "Energy projection"],
+        "description": "Former Air Force pilot Carol Danvers gains cosmic powers and becomes the superhero Captain Marvel, defending Earth against cosmic threats.",
+        "team": ["Avengers"],
+        "appearances": ["Captain Marvel", "Avengers: Endgame"]
+    }
+]

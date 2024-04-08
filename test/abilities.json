@@ -1,0 +1,162 @@
+[
+    {
+        "_id": "6611b46224dad835e488346e",
+        "name": "Genius-level intellect",
+        "description": "Possesses an exceptionally high intelligence quotient (IQ) and is capable of advanced problem-solving, analysis, and innovation.",
+        "type": "Mental",
+        "characters": [],
+        "__v": 0
+    },
+    {
+        "_id": "6611b46324dad835e4883470",
+        "name": "Expert engineer and inventor",
+        "description": "Skilled in various fields of engineering and capable of inventing and constructing complex technological devices and gadgets.",
+        "type": "Technical",
+        "characters": [],
+        "__v": 0
+    },
+    {
+        "_id": "6611b46324dad835e4883472",
+        "name": "Powered armor suit",
+        "description": "Wears a technologically advanced suit of armor that grants superhuman strength, flight, and an array of advanced weaponry.",
+        "type": "Technical",
+        "characters": [],
+        "__v": 0
+    },
+    {
+        "_id": "6611b46324dad835e4883474",
+        "name": "Master tactician and strategist",
+        "description": "Highly skilled in planning and executing strategies and tactics in combat and other situations.",
+        "type": "Tactical",
+        "characters": [],
+        "__v": 0
+    },
+    {
+        "_id": "6611b46324dad835e4883476",
+        "name": "Peak human strength",
+        "description": "Possesses physical strength at the upper limits of human potential, but not superhuman.",
+        "type": "Physical",
+        "characters": [],
+        "__v": 0
+    },
+    {
+        "_id": "6611b46324dad835e4883478",
+        "name": "Master martial artist and hand-to-hand combatant",
+        "description": "Highly skilled in various forms of martial arts and unarmed combat techniques.",
+        "type": "Physical",
+        "characters": [],
+        "__v": 0
+    },
+    {
+        "_id": "6611b46324dad835e488347a",
+        "name": "Vibranium shield mastery",
+        "description": "Highly skilled in using a shield made of vibranium, capable of absorbing and redirecting kinetic energy.",
+        "type": "Weapon Proficiency",
+        "characters": [],
+        "__v": 0
+    },
+    {
+        "_id": "6611b46324dad835e488347c",
+        "name": "Leadership skills",
+        "description": "Naturally possesses the ability to lead and inspire others in combat and other situations.",
+        "type": "Leadership",
+        "characters": [],
+        "__v": 0
+    },
+    {
+        "_id": "6611b46324dad835e488347e",
+        "name": "Mjolnir (enchanted hammer) mastery",
+        "description": "Possesses the ability to wield Mjolnir, an enchanted hammer that grants control over lightning and weather.",
+        "type": "Weapon Proficiency",
+        "characters": [],
+        "__v": 0
+    },
+    {
+        "_id": "6611b46324dad835e4883480",
+        "name": "Wall-crawling",
+        "description": "Capable of adhering to and scaling vertical surfaces using adhesive forces.",
+        "type": "Physical",
+        "characters": [],
+        "__v": 0
+    },
+    {
+        "_id": "6611b46324dad835e4883482",
+        "name": "Spider-sense",
+        "description": "A precognitive ability that warns of imminent danger, allowing for quick reflexive responses.",
+        "type": "Mental",
+        "characters": [],
+        "__v": 0
+    },
+    {
+        "_id": "6611b46324dad835e4883484",
+        "name": "Web-shooters and web-fluid",
+        "description": "Uses wrist-mounted devices to shoot and swing from webs made of a special adhesive fluid.",
+        "type": "Technical",
+        "characters": [],
+        "__v": 0
+    },
+    {
+        "_id": "6611b46324dad835e4883486",
+        "name": "Unlimited superhuman strength",
+        "description": "Possesses unlimited strength that increases with anger, allowing for incredible feats of physical power.",
+        "type": "Physical",
+        "characters": [],
+        "__v": 0
+    },
+    {
+        "_id": "6611b46324dad835e4883488",
+        "name": "Regenerative healing factor",
+        "description": "Capable of rapidly healing from injuries, including regrowing lost tissue and organs.",
+        "type": "Biological",
+        "characters": [],
+        "__v": 0
+    },
+    {
+        "_id": "6611b46324dad835e488348a",
+        "name": "Invulnerability",
+        "description": "Immune to most forms of physical harm and injury.",
+        "type": "Physical",
+        "characters": [],
+        "__v": 0
+    },
+    {
+        "_id": "6611b46324dad835e488348c",
+        "name": "Gamma radiation absorption",
+        "description": "Absorbs gamma radiation, which increases strength and durability but may trigger transformation into a powerful alter ego.",
+        "type": "Energy-based",
+        "characters": [],
+        "__v": 0
+    },
+    {
+        "_id": "6611b46324dad835e488348e",
+        "name": "Expert marksman and weapons specialist",
+        "description": "Highly skilled in the use of firearms and various weapons, with exceptional accuracy and proficiency.",
+        "type": "Weapon Proficiency",
+        "characters": [],
+        "__v": 0
+    },
+    {
+        "_id": "6611b46324dad835e4883490",
+        "name": "Espionage expertise",
+        "description": "Skilled in covert operations, intelligence gathering, and stealth tactics.",
+        "type": "Tactical",
+        "characters": [],
+        "__v": 0
+    },
+    {
+        "_id": "6611b46324dad835e4883492",
+        "name": "Mastery of the mystic arts",
+        "description": "Possesses extensive knowledge and skill in using mystical energies and incantations for various purposes.",
+        "type": "Mystical",
+        "characters": [],
+        "__v": 0
+    },
+    {
+        "_id": "6611b46324dad835e4883494",
+        "name": "Time manipulation",
+        "description": "Capable of manipulating the flow of time, including time travel and time loops.",
+        "type": "Mystical",
+        "characters": [],
+        "__v": 0
+    }
+]

@@ -1,0 +1,56 @@
+[
+    {
+        "name": "Iron Man",
+        "realName": ["Tony Stark"],
+        "img": "iron_man.jpg",
+        "abilities": ["Genius-level intellect", "Powered armor suit"],
+        "description": "Billionaire industrialist and genius inventor Tony Stark creates a suit of armor to fight evil.",
+        "team": ["Avengers"],
+        "appearances": ["Iron Man", "Iron Man 2", "The Avengers", "Iron Man 3", "Avengers: Age of Ultron", "Captain America: Civil War", "Spider-Man: Homecoming", "Avengers: Infinity War", "Avengers: Endgame"]
+    },
+    {
+        "name": "Captain America",
+        "realName": ["Steve Rogers"],
+        "img": "captain_america.jpg",
+        "abilities": ["Superhuman strength", "Agility", "Durability"],
+        "description": "A frail, sickly young man is transformed into the pinnacle of human physical perfection - Captain America.",
+        "team": ["Avengers"],
+        "appearances": ["Captain America: The First Avenger", "The Avengers", "Captain America: The Winter Soldier", "Avengers: Age of Ultron", "Captain America: Civil War", "Avengers: Infinity War", "Avengers: Endgame"]
+    },
+    {
+        "name": "Thor",
+        "realName": ["Thor Odinson"],
+        "img": "thor.jpg",
+        "abilities": ["Superhuman strength", "Durability", "Control over lightning"],
+        "description": "The Norse God of Thunder wields the enchanted hammer Mjolnir to protect the realms of Asgard and Earth.",
+        "team": ["Avengers"],
+        "appearances": ["Thor", "The Avengers", "Thor: The Dark World", "Avengers: Age of Ultron", "Thor: Ragnarok", "Avengers: Infinity War", "Avengers: Endgame"]
+    },
+    {
+        "name": "Hulk",
+        "realName": ["Bruce Banner"],
+        "img": "hulk.jpg",
+        "abilities": ["Superhuman strength", "Regeneration"],
+        "description": "Scientist Bruce Banner transforms into the monstrous Hulk whenever he experiences anger or emotional stress.",
+        "team": ["Avengers"],
+        "appearances": ["The Incredible Hulk", "The Avengers", "Avengers: Age of Ultron", "Thor: Ragnarok", "Avengers: Infinity War", "Avengers: Endgame"]
+    },
+    {
+        "name": "Black Widow",
+        "realName": ["Natasha Romanoff"],
+        "img": "black_widow.jpg",
+        "abilities": ["Master martial artist", "Espionage expert"],
+        "description": "Former Russian spy Natasha Romanoff, also known as Black Widow, becomes a member of the Avengers.",
+        "team": ["Avengers"],
+        "appearances": ["Iron Man 2", "The Avengers", "Captain America: The Winter Soldier", "Avengers: Age of Ultron", "Captain America: Civil War", "Avengers: Infinity War", "Avengers: Endgame"]
+    },
+    {
+        "name": "Hawkeye",
+        "realName": ["Clint Barton"],
+        "img": "hawkeye.jpg",
+        "abilities": ["Master archer", "Expert marksman"],
+        "description": "Master archer and marksman Clint Barton, also known as Hawkeye, is a skilled member of the Avengers.",
+        "team": ["Avengers"],
+        "appearances": ["Thor", "The Avengers", "Avengers: Age of Ultron", "Captain America: Civil War", "Avengers: Endgame"]
+    }
+]
