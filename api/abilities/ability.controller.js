@@ -70,27 +70,6 @@ const createAbilities = async (req, res, next) => {
   }
 };
 
-// Función para convertir una lista de nombres de personajes a una lista de IDs de personajes
-async function convertToCharacterIds(characterNames) {
-  const characterIds = [];
-  // Iterar sobre la lista de nombres de personajes
-  for (let i = 0; i < characterNames.length; i++) {
-    const characterName = characterNames[i];
-    // Buscar el personaje en la base de datos por su nombre
-    const character = await Character.findOne({ name: characterName });
-    // Si se encuentra el personaje, agregar su ID a la lista de IDs
-    if (character) {
-      characterIds.push(character._id);
-    } else {
-      // Si no se encuentra el personaje, crearlo y agregar su ID a la lista de IDs
-      const newCharacter = new Character({ name: characterName });
-      await newCharacter.save();
-      characterIds.push(newCharacter._id);
-    }
-  }
-  return characterIds;
-}
-
 
 const updateAbility = async (req, res, next) => {
   try {
