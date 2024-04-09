@@ -41,24 +41,6 @@ const createAbilities = async (req, res, next) => {
     // Array de habilidades que deseas guardar en la base de datos
     const abilities = req.body;
 
-    // Iterar sobre el array de habilidades
-    for (let i = 0; i < abilities.length; i++) {
-      const abilityData = abilities[i];
-      
-      // Verificar si se proporciona una lista de personajes
-      if (abilityData.characters) {
-        // Convertir la lista de personajes a un array de IDs
-        const characterList = await convertToCharacterIds(abilityData.characters);
-        abilityData.characters = characterList;
-      }
-
-      // Crear una nueva instancia de Ability con los datos de la habilidad actual
-      const ability = new Ability(abilityData);
-      
-      // Guardar la habilidad en la base de datos
-      await ability.save();
-    }
-
     // Responder con un mensaje de éxito
     res.status(201).json({
       status: 201,
