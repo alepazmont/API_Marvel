@@ -2,6 +2,7 @@ const mongoose = require("mongoose");
 
 const characterSchema = new mongoose.Schema({
     name: { type: String, required: true, trim: true, unique: true },
+    realName: { type: Array, trim: true },
     img: { type: String, required: true, trim: true },
     abilities: { type: Array, required: true, trim: true },
     description: { type: String },
