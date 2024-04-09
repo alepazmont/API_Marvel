@@ -1,6 +1,7 @@
 // 1 IMPORTS > NPM; MÓDULOS PROPIOS
 
 const express = require("express");
+const path = require("path"); // Importa el módulo path
 require("dotenv").config();
 const userRouter = require("./api/user/user.routes")
 const characterRouter = require("./api/characters/character.router");
@@ -28,8 +29,8 @@ app.use((req, res, next) => {
 
 connectMongo();
 
-// Ruta para servir archivos estáticos desde la carpeta 'img'
-app.use('/img', express.static(path.join(__dirname, 'img')));
+/* // Ruta para servir archivos estáticos desde la carpeta 'img'
+app.use('/img', express.static(path.join(__dirname, 'img'))); */
 
 // 3  ENDPOINTS
 
