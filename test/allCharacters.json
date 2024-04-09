@@ -1,0 +1,468 @@
+[
+    {
+        "name": "Captain America",
+        "realName": [
+            "Steve Rogers"
+        ],
+        "img": "captain_america.jpg",
+        "abilities": [
+            "Superhuman strength",
+            "Agility",
+            "Durability",
+            "Leadership"
+        ],
+        "description": "A frail, sickly young man is transformed into the pinnacle of human physical perfection - Captain America.",
+        "alias": [],
+        "team": [
+            "Avengers"
+        ],
+        "appearances": [
+            "Captain America: The First Avenger",
+            "The Avengers",
+            "Captain America: The Winter Soldier",
+            "Avengers: Age of Ultron",
+            "Captain America: Civil War",
+            "Avengers: Infinity War",
+            "Avengers: Endgame"
+        ],
+        "__v": 0
+    },
+    {
+        "name": "Iron Man",
+        "realName": [
+            "Tony Stark"
+        ],
+        "img": "iron_man.jpg",
+        "abilities": [
+            "Genius-level intellect",
+            "Powered armor suit",
+            "Leadership"
+        ],
+        "description": "Billionaire industrialist and genius inventor Tony Stark creates a suit of armor to fight evil.",
+        "alias": [],
+        "team": [
+            "Avengers"
+        ],
+        "appearances": [
+            "Iron Man",
+            "Iron Man 2",
+            "The Avengers",
+            "Iron Man 3",
+            "Avengers: Age of Ultron",
+            "Captain America: Civil War",
+            "Spider-Man: Homecoming",
+            "Avengers: Infinity War",
+            "Avengers: Endgame"
+        ],
+        "__v": 0
+    },
+    {
+        "name": "Thor",
+        "realName": [
+            "Thor Odinson"
+        ],
+        "img": "thor.jpg",
+        "abilities": [
+            "Superhuman strength",
+            "Durability",
+            "Control over lightning"
+        ],
+        "description": "The Norse God of Thunder wields the enchanted hammer Mjolnir to protect the realms of Asgard and Earth.",
+        "alias": [],
+        "team": [
+            "Avengers"
+        ],
+        "appearances": [
+            "Thor",
+            "The Avengers",
+            "Thor: The Dark World",
+            "Avengers: Age of Ultron",
+            "Thor: Ragnarok",
+            "Avengers: Infinity War",
+            "Avengers: Endgame"
+        ],
+        "__v": 0
+    },
+    {
+        "name": "Hawkeye",
+        "realName": [
+            "Clint Barton"
+        ],
+        "img": "hawkeye.jpg",
+        "abilities": [
+            "Master archery",
+            "Expert marksmanship"
+        ],
+        "description": "Master archer and marksman Clint Barton, also known as Hawkeye, is a skilled member of the Avengers.",
+        "alias": [],
+        "team": [
+            "Avengers"
+        ],
+        "appearances": [
+            "Thor",
+            "The Avengers",
+            "Avengers: Age of Ultron",
+            "Captain America: Civil War",
+            "Avengers: Endgame"
+        ],
+        "__v": 0
+    },
+    {
+        "name": "Hulk",
+        "realName": [
+            "Bruce Banner"
+        ],
+        "img": "hulk.jpg",
+        "abilities": [
+            "Superhuman strength",
+            "Regeneration"
+        ],
+        "description": "Scientist Bruce Banner transforms into the monstrous Hulk whenever he experiences anger or emotional stress.",
+        "alias": [],
+        "team": [
+            "Avengers"
+        ],
+        "appearances": [
+            "The Incredible Hulk",
+            "The Avengers",
+            "Avengers: Age of Ultron",
+            "Thor: Ragnarok",
+            "Avengers: Infinity War",
+            "Avengers: Endgame"
+        ],
+        "__v": 0
+    },
+    {
+        "name": "Black Widow",
+        "realName": [
+            "Natasha Romanoff"
+        ],
+        "img": "black_widow.jpg",
+        "abilities": [
+            "Martial arts mastery",
+            "Espionage expertise"
+        ],
+        "description": "Former Russian spy Natasha Romanoff, also known as Black Widow, becomes a member of the Avengers.",
+        "alias": [],
+        "team": [
+            "Avengers"
+        ],
+        "appearances": [
+            "Iron Man 2",
+            "The Avengers",
+            "Captain America: The Winter Soldier",
+            "Avengers: Age of Ultron",
+            "Captain America: Civil War",
+            "Avengers: Infinity War",
+            "Avengers: Endgame"
+        ],
+        "__v": 0
+    },
+    {
+        "name": "Ant-Man",
+        "realName": [
+            "Scott Lang"
+        ],
+        "img": "ant_man.jpg",
+        "abilities": [
+            "Size manipulation",
+            "Strength augmentation"
+        ],
+        "description": "Scott Lang becomes the size-changing superhero Ant-Man, armed with a suit that allows him to shrink in size.",
+        "alias": [],
+        "team": [
+            "Avengers"
+        ],
+        "appearances": [
+            "Ant-Man",
+            "Captain America: Civil War",
+            "Ant-Man and The Wasp",
+            "Avengers: Endgame"
+        ],
+        "__v": 0
+    },
+    {
+        "name": "Wasp",
+        "realName": [
+            "Hope van Dyne"
+        ],
+        "img": "wasp.jpg",
+        "abilities": [
+            "Size manipulation",
+            "Flight",
+            "Bio-electric blasts"
+        ],
+        "description": "Hope van Dyne, daughter of Hank Pym, becomes the superhero Wasp, equipped with a suit that grants her the ability to shrink and fly.",
+        "alias": [],
+        "team": [
+            "Avengers"
+        ],
+        "appearances": [
+            "Ant-Man",
+            "Ant-Man and The Wasp",
+            "Avengers: Endgame"
+        ],
+        "__v": 0
+    },
+    {
+        "name": "Scarlet Witch",
+        "realName": [
+            "Wanda Maximoff"
+        ],
+        "img": "scarlet_witch.jpg",
+        "abilities": [
+            "Reality manipulation",
+            "Energy manipulation",
+            "Telekinesis"
+        ],
+        "description": "Wanda Maximoff, also known as Scarlet Witch, possesses incredible reality-altering powers.",
+        "alias": [],
+        "team": [
+            "Avengers"
+        ],
+        "appearances": [
+            "Captain America: The Winter Soldier",
+            "Avengers: Age of Ultron",
+            "Captain America: Civil War",
+            "Avengers: Infinity War",
+            "Avengers: Endgame"
+        ],
+        "__v": 0
+    },
+    {
+        "name": "Quicksilver",
+        "realName": [
+            "Pietro Maximoff"
+        ],
+        "img": "quicksilver.jpg",
+        "abilities": [
+            "Superhuman speed"
+        ],
+        "description": "Pietro Maximoff, also known as Quicksilver, possesses superhuman speed, making him one of the fastest beings on Earth.",
+        "alias": [],
+        "team": [
+            "Avengers"
+        ],
+        "appearances": [
+            "Captain America: The Winter Soldier",
+            "Avengers: Age of Ultron"
+        ],
+        "__v": 0
+    },
+    {
+        "name": "Black Panther",
+        "realName": [
+            "T'Challa"
+        ],
+        "img": "black_panther.jpg",
+        "abilities": [
+            "Enhanced strength",
+            "Agility",
+            "Vibranium suit"
+        ],
+        "description": "T'Challa, heir to the throne of Wakanda, becomes the Black Panther, protector of his nation and warrior king.",
+        "alias": [],
+        "team": [
+            "Avengers"
+        ],
+        "appearances": [
+            "Captain America: Civil War",
+            "Black Panther",
+            "Avengers: Infinity War",
+            "Avengers: Endgame"
+        ],
+        "__v": 0
+    },
+    {
+        "name": "Doctor Strange",
+        "realName": [
+            "Stephen Strange"
+        ],
+        "img": "doctor_strange.jpg",
+        "abilities": [
+            "Mastery of the mystic arts",
+            "Sling Ring manipulation",
+            "Time manipulation"
+        ],
+        "description": "Former neurosurgeon Stephen Strange becomes the Sorcerer Supreme after a career-ending car accident, mastering the mystic arts to protect reality.",
+        "alias": [],
+        "team": [
+            "Avengers"
+        ],
+        "appearances": [
+            "Doctor Strange",
+            "Thor: Ragnarok",
+            "Avengers: Infinity War",
+            "Avengers: Endgame"
+        ],
+        "__v": 0
+    },
+    {
+        "name": "Spider-Man",
+        "realName": [
+            "Peter Parker"
+        ],
+        "img": "spider_man.jpg",
+        "abilities": [
+            "Wall-crawling",
+            "Superhuman strength",
+            "Spider-sense",
+            "Agility",
+            "Durability"
+        ],
+        "description": "High school student Peter Parker gains spider-like abilities after being bitten by a radioactive spider, becoming the superhero Spider-Man.",
+        "alias": [],
+        "team": [
+            "Avengers"
+        ],
+        "appearances": [
+            "Captain America: Civil War",
+            "Spider-Man: Homecoming",
+            "Avengers: Infinity War",
+            "Avengers: Endgame"
+        ],
+        "__v": 0
+    },
+    {
+        "name": "Captain Marvel",
+        "realName": [
+            "Carol Danvers"
+        ],
+        "img": "captain_marvel.jpg",
+        "abilities": [
+            "Flight",
+            "Superhuman strength",
+            "Energy projection"
+        ],
+        "description": "Former Air Force pilot Carol Danvers gains cosmic powers and becomes the superhero Captain Marvel, defending Earth against cosmic threats.",
+        "alias": [],
+        "team": [
+            "Avengers"
+        ],
+        "appearances": [
+            "Captain Marvel",
+            "Avengers: Endgame"
+        ],
+        "__v": 0
+    },
+    {
+        "name": "Gamora",
+        "realName": [
+            "Gamora Zen Whoberi Ben Titan"
+        ],
+        "img": "gamora.jpg",
+        "abilities": [
+            "Master assassin",
+            "Martial arts mastery",
+            "Enhanced strength and agility"
+        ],
+        "description": "Gamora, the adopted daughter of the intergalactic warlord Thanos, is a fierce warrior and member of the Guardians of the Galaxy.",
+        "alias": [],
+        "team": [
+            "Guardians of the Galaxy"
+        ],
+        "appearances": [
+            "Guardians of the Galaxy",
+            "Guardians of the Galaxy Vol. 2",
+            "Avengers: Infinity War",
+            "Avengers: Endgame"
+        ],
+        "__v": 0
+    },
+    {
+        "name": "Drax the Destroyer",
+        "realName": [
+            "Drax"
+        ],
+        "img": "drax.jpg",
+        "abilities": [
+            "Superhuman strength",
+            "Expert combatant",
+            "Enhanced durability"
+        ],
+        "description": "Drax the Destroyer seeks revenge against Thanos for the death of his family and is a member of the Guardians of the Galaxy.",
+        "alias": [],
+        "team": [
+            "Guardians of the Galaxy"
+        ],
+        "appearances": [
+            "Guardians of the Galaxy",
+            "Guardians of the Galaxy Vol. 2",
+            "Avengers: Infinity War",
+            "Avengers: Endgame"
+        ],
+        "__v": 0
+    },
+    {
+        "name": "Groot",
+        "realName": [
+            "Groot"
+        ],
+        "img": "groot.jpg",
+        "abilities": [
+            "Regeneration",
+            "Superhuman strength",
+            "Control over flora"
+        ],
+        "description": "Groot is a sentient tree-like being and loyal companion to Rocket Raccoon in the Guardians of the Galaxy.",
+        "alias": [],
+        "team": [
+            "Guardians of the Galaxy"
+        ],
+        "appearances": [
+            "Guardians of the Galaxy",
+            "Guardians of the Galaxy Vol. 2",
+            "Avengers: Infinity War",
+            "Avengers: Endgame"
+        ],
+        "__v": 0
+    },
+    {
+        "name": "Star-Lord",
+        "realName": [
+            "Peter Quill"
+        ],
+        "img": "star_lord.jpg",
+        "abilities": [
+            "Leadership",
+            "Master combatant",
+            "Skilled tactician"
+        ],
+        "description": "Peter Quill, also known as Star-Lord, leads the Guardians of the Galaxy as they protect the universe from various threats.",
+        "alias": [],
+        "team": [
+            "Guardians of the Galaxy"
+        ],
+        "appearances": [
+            "Guardians of the Galaxy",
+            "Guardians of the Galaxy Vol. 2",
+            "Avengers: Infinity War",
+            "Avengers: Endgame"
+        ],
+        "__v": 0
+    },
+    {
+        "name": "Rocket Raccoon",
+        "realName": [
+            "Subject: 89P13"
+        ],
+        "img": "rocket_raccoon.jpg",
+        "abilities": [
+            "Genius-level intellect",
+            "Expert marksmanship",
+            "Skilled pilot"
+        ],
+        "description": "Rocket Raccoon is a genetically modified raccoon with a penchant for weapons and technology and is a member of the Guardians of the Galaxy.",
+        "alias": [],
+        "team": [
+            "Guardians of the Galaxy"
+        ],
+        "appearances": [
+            "Guardians of the Galaxy",
+            "Guardians of the Galaxy Vol. 2",
+            "Avengers: Infinity War",
+            "Avengers: Endgame"
+        ],
+        "__v": 0
+    }
+]

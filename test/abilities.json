@@ -1,162 +1,248 @@
 [
     {
-        "_id": "6611b46224dad835e488346e",
-        "name": "Genius-level intellect",
-        "description": "Possesses an exceptionally high intelligence quotient (IQ) and is capable of advanced problem-solving, analysis, and innovation.",
-        "type": "Mental",
-        "characters": [],
-        "__v": 0
+      "name": "Superhuman strength",
+      "type": "Physical",
+      "description": "The ability to exert force beyond that of a normal human.",
+      "characters": [
+        "Captain America",
+        "Iron Man",
+        "Thor",
+        "Hulk",
+        "Black Panther",
+        "Spider-Man",
+        "Captain Marvel",
+        "Drax the Destroyer",
+        "Groot"
+      ]
     },
     {
-        "_id": "6611b46324dad835e4883470",
-        "name": "Expert engineer and inventor",
-        "description": "Skilled in various fields of engineering and capable of inventing and constructing complex technological devices and gadgets.",
-        "type": "Technical",
-        "characters": [],
-        "__v": 0
+      "name": "Agility",
+      "type": "Physical",
+      "description": "The ability to move quickly and easily.",
+      "characters": [
+        "Captain America",
+        "Black Panther",
+        "Spider-Man"
+      ]
     },
     {
-        "_id": "6611b46324dad835e4883472",
-        "name": "Powered armor suit",
-        "description": "Wears a technologically advanced suit of armor that grants superhuman strength, flight, and an array of advanced weaponry.",
-        "type": "Technical",
-        "characters": [],
-        "__v": 0
+      "name": "Durability",
+      "type": "Physical",
+      "description": "The ability to withstand damage or hardship.",
+      "characters": [
+        "Captain America",
+        "Iron Man",
+        "Thor",
+        "Hulk",
+        "Spider-Man"
+      ]
     },
     {
-        "_id": "6611b46324dad835e4883474",
-        "name": "Master tactician and strategist",
-        "description": "Highly skilled in planning and executing strategies and tactics in combat and other situations.",
-        "type": "Tactical",
-        "characters": [],
-        "__v": 0
+      "name": "Leadership",
+      "type": "Mental",
+      "description": "The capacity to lead and influence others effectively.",
+      "characters": [
+        "Captain America",
+        "Iron Man",
+        "Star-Lord"
+      ]
     },
     {
-        "_id": "6611b46324dad835e4883476",
-        "name": "Peak human strength",
-        "description": "Possesses physical strength at the upper limits of human potential, but not superhuman.",
-        "type": "Physical",
-        "characters": [],
-        "__v": 0
+      "name": "Genius-level intellect",
+      "type": "Mental",
+      "description": "Exceptional intelligence and cognitive abilities.",
+      "characters": [
+        "Iron Man",
+        "Rocket Raccoon"
+      ]
     },
     {
-        "_id": "6611b46324dad835e4883478",
-        "name": "Master martial artist and hand-to-hand combatant",
-        "description": "Highly skilled in various forms of martial arts and unarmed combat techniques.",
-        "type": "Physical",
-        "characters": [],
-        "__v": 0
+      "name": "Master archery",
+      "type": "Physical",
+      "description": "Exceptional skill in the use of a bow and arrow.",
+      "characters": [
+        "Hawkeye"
+      ]
     },
     {
-        "_id": "6611b46324dad835e488347a",
-        "name": "Vibranium shield mastery",
-        "description": "Highly skilled in using a shield made of vibranium, capable of absorbing and redirecting kinetic energy.",
-        "type": "Weapon Proficiency",
-        "characters": [],
-        "__v": 0
+      "name": "Expert marksmanship",
+      "type": "Physical",
+      "description": "Exceptional accuracy and precision in shooting.",
+      "characters": [
+        "Hawkeye", "Rocket Raccoon"
+      ]
     },
     {
-        "_id": "6611b46324dad835e488347c",
-        "name": "Leadership skills",
-        "description": "Naturally possesses the ability to lead and inspire others in combat and other situations.",
-        "type": "Leadership",
-        "characters": [],
-        "__v": 0
+      "name": "Regeneration",
+      "type": "Physical",
+      "description": "The ability to heal rapidly from injuries.",
+      "characters": [
+        "Hulk",
+        "Groot"
+      ]
     },
     {
-        "_id": "6611b46324dad835e488347e",
-        "name": "Mjolnir (enchanted hammer) mastery",
-        "description": "Possesses the ability to wield Mjolnir, an enchanted hammer that grants control over lightning and weather.",
-        "type": "Weapon Proficiency",
-        "characters": [],
-        "__v": 0
+      "name": "Martial arts mastery",
+      "type": "Physical",
+      "description": "Exceptional proficiency in various forms of hand-to-hand combat.",
+      "characters": [
+        "Black Widow", "Gamora"
+      ]
     },
     {
-        "_id": "6611b46324dad835e4883480",
-        "name": "Wall-crawling",
-        "description": "Capable of adhering to and scaling vertical surfaces using adhesive forces.",
-        "type": "Physical",
-        "characters": [],
-        "__v": 0
+      "name": "Espionage expertise",
+      "type": "Mental",
+      "description": "Skill in undercover operations and gathering intelligence covertly.",
+      "characters": [
+        "Black Widow"
+      ]
     },
     {
-        "_id": "6611b46324dad835e4883482",
-        "name": "Spider-sense",
-        "description": "A precognitive ability that warns of imminent danger, allowing for quick reflexive responses.",
-        "type": "Mental",
-        "characters": [],
-        "__v": 0
+      "name": "Size manipulation",
+      "type": "Physical",
+      "description": "The ability to alter one's size.",
+      "characters": [
+        "Ant-Man",
+        "Wasp"
+      ]
     },
     {
-        "_id": "6611b46324dad835e4883484",
-        "name": "Web-shooters and web-fluid",
-        "description": "Uses wrist-mounted devices to shoot and swing from webs made of a special adhesive fluid.",
-        "type": "Technical",
-        "characters": [],
-        "__v": 0
+      "name": "Flight",
+      "type": "Physical",
+      "description": "The ability to fly.",
+      "characters": [
+        "Captain Marvel",
+        "Wasp"
+      ]
     },
     {
-        "_id": "6611b46324dad835e4883486",
-        "name": "Unlimited superhuman strength",
-        "description": "Possesses unlimited strength that increases with anger, allowing for incredible feats of physical power.",
-        "type": "Physical",
-        "characters": [],
-        "__v": 0
+      "name": "Bio-electric blasts",
+      "type": "Physical",
+      "description": "The ability to emit blasts of bio-electric energy.",
+      "characters": [
+        "Wasp"
+      ]
     },
     {
-        "_id": "6611b46324dad835e4883488",
-        "name": "Regenerative healing factor",
-        "description": "Capable of rapidly healing from injuries, including regrowing lost tissue and organs.",
-        "type": "Biological",
-        "characters": [],
-        "__v": 0
+      "name": "Reality manipulation",
+      "type": "Mystical",
+      "description": "The ability to alter or manipulate reality.",
+      "characters": [
+        "Scarlet Witch"
+      ]
     },
     {
-        "_id": "6611b46324dad835e488348a",
-        "name": "Invulnerability",
-        "description": "Immune to most forms of physical harm and injury.",
-        "type": "Physical",
-        "characters": [],
-        "__v": 0
+      "name": "Energy manipulation",
+      "type": "Mystical",
+      "description": "The ability to control and manipulate various forms of energy.",
+      "characters": [
+        "Scarlet Witch"
+      ]
     },
     {
-        "_id": "6611b46324dad835e488348c",
-        "name": "Gamma radiation absorption",
-        "description": "Absorbs gamma radiation, which increases strength and durability but may trigger transformation into a powerful alter ego.",
-        "type": "Energy-based",
-        "characters": [],
-        "__v": 0
+      "name": "Telekinesis",
+      "type": "Mystical",
+      "description": "The ability to move objects with the mind.",
+      "characters": [
+        "Scarlet Witch"
+      ]
     },
     {
-        "_id": "6611b46324dad835e488348e",
-        "name": "Expert marksman and weapons specialist",
-        "description": "Highly skilled in the use of firearms and various weapons, with exceptional accuracy and proficiency.",
-        "type": "Weapon Proficiency",
-        "characters": [],
-        "__v": 0
+      "name": "Superhuman speed",
+      "type": "Physical",
+      "description": "The ability to move at speeds beyond that of a normal human.",
+      "characters": [
+        "Quicksilver"
+      ]
     },
     {
-        "_id": "6611b46324dad835e4883490",
-        "name": "Espionage expertise",
-        "description": "Skilled in covert operations, intelligence gathering, and stealth tactics.",
-        "type": "Tactical",
-        "characters": [],
-        "__v": 0
+      "name": "Control over lightning",
+      "type": "Mystical",
+      "description": "The ability to generate and manipulate lightning.",
+      "characters": [
+        "Thor"
+      ]
     },
     {
-        "_id": "6611b46324dad835e4883492",
-        "name": "Mastery of the mystic arts",
-        "description": "Possesses extensive knowledge and skill in using mystical energies and incantations for various purposes.",
-        "type": "Mystical",
-        "characters": [],
-        "__v": 0
+      "name": "Mastery of the mystic arts",
+      "type": "Mystical",
+      "description": "Proficiency in the use of mystical forces and energies.",
+      "characters": [
+        "Doctor Strange"
+      ]
     },
     {
-        "_id": "6611b46324dad835e4883494",
-        "name": "Time manipulation",
-        "description": "Capable of manipulating the flow of time, including time travel and time loops.",
-        "type": "Mystical",
-        "characters": [],
-        "__v": 0
+      "name": "Sling Ring manipulation",
+      "type": "Mystical",
+      "description": "The ability to create and manipulate portals through space.",
+      "characters": [
+        "Doctor Strange"
+      ]
+    },
+    {
+      "name": "Time manipulation",
+      "type": "Mystical",
+      "description": "The ability to control and manipulate the flow of time.",
+      "characters": [
+        "Doctor Strange"
+      ]
+    },
+    {
+      "name": "Wall-crawling",
+      "type": "Physical",
+      "description": "The ability to adhere to and climb vertical surfaces.",
+      "characters": [
+        "Spider-Man"
+      ]
+    },
+    {
+      "name": "Spider-sense",
+      "type": "Physical",
+      "description": "Enhanced perception that alerts the individual to imminent danger.",
+      "characters": [
+        "Spider-Man"
+      ]
+    },
+    {
+      "name": "Skilled combatant",
+      "type": "Physical",
+      "description": "Proficient in hand-to-hand combat and combat strategy.",
+      "characters": [
+        "Star-Lord",
+        "Drax the Destroyer"
+      ]
+    },
+    {
+      "name": "Skilled tactician",
+      "type": "Mental",
+      "description": "Proficient in devising strategies and tactics.",
+      "characters": [
+        "Star-Lord"
+      ]
+    },
+    {
+      "name": "Enhanced strength and agility",
+      "type": "Physical",
+      "description": "Increased strength and agility beyond normal human limits.",
+      "characters": [
+        "Gamora"
+      ]
+    },
+    {
+      "name": "Enhanced durability",
+      "type": "Physical",
+      "description": "Increased resistance to damage or injury.",
+      "characters": [
+        "Drax the Destroyer"
+      ]
+    },
+    {
+      "name": "Control over flora",
+      "type": "Mystical",
+      "description": "The ability to manipulate and control plant life.",
+      "characters": [
+        "Groot"
+      ]
     }
-]
+  ]
+  
