@@ -27,6 +27,10 @@ app.use((req, res, next) => {
 });
 
 connectMongo();
+
+// Ruta para servir archivos estáticos desde la carpeta 'img'
+app.use('/img', express.static(path.join(__dirname, 'img')));
+
 // 3  ENDPOINTS
 
 app.get("/", (req, res) => {
