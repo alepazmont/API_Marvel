@@ -32,8 +32,8 @@ const getOne = async (req, res, next) => {
 
 const getOneByName = async (req, res, next) => {
   try {
-    const name = req.query.name; 
-    const character = await Character.findOne({ name: name });
+    const name = req.query.name; // Obtener el parámetro de consulta "name"
+    const character = await Character.findOne({ name: name }); // Buscar por nombre
     res.json({
       status: 200,
       msg: "ok",
