@@ -29,9 +29,10 @@ const getOne = async (req, res, next) => {
     next(error);
   }
 };
+
 const getOneByName = async (req, res, next) => {
   try {
-    const name = req.params.name;
+    const name = req.query.name; 
     const character = await Character.findOne({ name: name });
     res.json({
       status: 200,
@@ -42,6 +43,7 @@ const getOneByName = async (req, res, next) => {
     next(error);
   }
 };
+
 const getAll = async (req, res, next) => {
   try {
     const characters = await Character.find();

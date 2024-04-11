@@ -58,15 +58,31 @@ const getMovies = async (req, res, next) => {
 
 const createMovie = async (req, res, next) => {
   try {
-    // Se crea un nuevo pedido con los datos proporcionados por el usuario.
-    const movie = new Movie(req.body);
-    // Se guarda el nuevo pedido en la base de datos.
-    await movie.save();
-    // Se responde confirmando la creación del pedido.
+    let moviesData = req.body;
+
+    // Si el cuerpo de la solicitud no es un array, lo convertimos en un array con un solo elemento
+    if (!Array.isArray(moviesData)) {
+      moviesData = [moviesData];
+    }
+
+    // Creamos un array para almacenar las películas creadas
+    const createdMovies = [];
+
+    // Iteramos sobre cada objeto de película en el array
+    for (const movieData of moviesData) {
+      // Creamos una nueva instancia de la película con los datos proporcionados
+      const movie = new Movie(movieData);
+      // Guardamos la película en la base de datos
+      await movie.save();
+      // Añadimos la película creada al array de películas creadas
+      createdMovies.push(movie);
+    }
+
+    // Respondemos con un código de estado 201 y el array de películas creadas
     res.status(201).json({
       status: 201,
       message: HTTPSTATUSCODE[201],
-      data: movie,
+      data: createdMovies,
     });
   } catch (error) {
     next(error);

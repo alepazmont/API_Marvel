@@ -4,7 +4,7 @@
         "realName": [
             "Steve Rogers"
         ],
-        "img": "captain_america.jpg",
+        "img": "https://alepaz.online/api_Marvel/img/characters/captainamerica.webp",
         "abilities": [
             "Superhuman strength",
             "Agility",
@@ -32,7 +32,7 @@
         "realName": [
             "Tony Stark"
         ],
-        "img": "iron_man.jpg",
+        "img": "https://alepaz.online/api_Marvel/img/characters/ironman.webp",
         "abilities": [
             "Genius-level intellect",
             "Powered armor suit",
@@ -61,7 +61,7 @@
         "realName": [
             "Thor Odinson"
         ],
-        "img": "thor.jpg",
+        "img": "https://alepaz.online/api_Marvel/img/characters/thor.webp",
         "abilities": [
             "Superhuman strength",
             "Durability",
@@ -88,7 +88,7 @@
         "realName": [
             "Clint Barton"
         ],
-        "img": "hawkeye.jpg",
+        "img": "https://alepaz.online/api_Marvel/img/characters/haweye.webp",
         "abilities": [
             "Master archery",
             "Expert marksmanship"
@@ -112,7 +112,7 @@
         "realName": [
             "Bruce Banner"
         ],
-        "img": "hulk.jpg",
+        "img": "https://alepaz.online/api_Marvel/img/characters/hulk.webp",
         "abilities": [
             "Superhuman strength",
             "Regeneration"
@@ -137,7 +137,7 @@
         "realName": [
             "Natasha Romanoff"
         ],
-        "img": "black_widow.jpg",
+        "img": "https://alepaz.online/api_Marvel/img/characters/blackwidow.webp",
         "abilities": [
             "Martial arts mastery",
             "Espionage expertise"
@@ -163,7 +163,7 @@
         "realName": [
             "Scott Lang"
         ],
-        "img": "ant_man.jpg",
+        "img": "https://alepaz.online/api_Marvel/img/characters/ant-man.webp",
         "abilities": [
             "Size manipulation",
             "Strength augmentation"
@@ -186,7 +186,7 @@
         "realName": [
             "Hope van Dyne"
         ],
-        "img": "wasp.jpg",
+        "img": "https://alepaz.online/api_Marvel/img/characters/wasp.webp",
         "abilities": [
             "Size manipulation",
             "Flight",
@@ -209,7 +209,7 @@
         "realName": [
             "Wanda Maximoff"
         ],
-        "img": "scarlet_witch.jpg",
+        "img": "https://alepaz.online/api_Marvel/img/characters/scarletwitch.webp",
         "abilities": [
             "Reality manipulation",
             "Energy manipulation",
@@ -234,7 +234,7 @@
         "realName": [
             "Pietro Maximoff"
         ],
-        "img": "quicksilver.jpg",
+        "img": "https://alepaz.online/api_Marvel/img/characters/quicksilver.webp",
         "abilities": [
             "Superhuman speed"
         ],
@@ -254,7 +254,7 @@
         "realName": [
             "T'Challa"
         ],
-        "img": "black_panther.jpg",
+        "img": "https://alepaz.online/api_Marvel/img/characters/blackpanther.webp",
         "abilities": [
             "Enhanced strength",
             "Agility",
@@ -278,7 +278,7 @@
         "realName": [
             "Stephen Strange"
         ],
-        "img": "doctor_strange.jpg",
+        "img": "https://alepaz.online/api_Marvel/img/characters/doctorstrange.webp",
         "abilities": [
             "Mastery of the mystic arts",
             "Sling Ring manipulation",
@@ -302,7 +302,7 @@
         "realName": [
             "Peter Parker"
         ],
-        "img": "spider_man.jpg",
+        "img": "https://alepaz.online/api_Marvel/img/characters/spider-man.webp",
         "abilities": [
             "Wall-crawling",
             "Superhuman strength",
@@ -328,7 +328,7 @@
         "realName": [
             "Carol Danvers"
         ],
-        "img": "captain_marvel.jpg",
+        "img": "https://alepaz.online/api_Marvel/img/characters/captainmarvel.webp",
         "abilities": [
             "Flight",
             "Superhuman strength",
@@ -350,7 +350,7 @@
         "realName": [
             "Gamora Zen Whoberi Ben Titan"
         ],
-        "img": "gamora.jpg",
+        "img": "https://alepaz.online/api_Marvel/img/characters/gamora.webp",
         "abilities": [
             "Master assassin",
             "Martial arts mastery",
@@ -374,7 +374,7 @@
         "realName": [
             "Drax"
         ],
-        "img": "drax.jpg",
+        "img": "https://alepaz.online/api_Marvel/img/characters/drax.webp",
         "abilities": [
             "Superhuman strength",
             "Expert combatant",
@@ -398,7 +398,7 @@
         "realName": [
             "Groot"
         ],
-        "img": "groot.jpg",
+        "img": "https://alepaz.online/api_Marvel/img/characters/groot.webp",
         "abilities": [
             "Regeneration",
             "Superhuman strength",
@@ -422,7 +422,7 @@
         "realName": [
             "Peter Quill"
         ],
-        "img": "star_lord.jpg",
+        "img": "https://alepaz.online/api_Marvel/img/characters/star-lord.webp",
         "abilities": [
             "Leadership",
             "Master combatant",
@@ -446,7 +446,7 @@
         "realName": [
             "Subject: 89P13"
         ],
-        "img": "rocket_raccoon.jpg",
+        "img": "https://alepaz.online/api_Marvel/img/characters/rocketraccoon.webp",
         "abilities": [
             "Genius-level intellect",
             "Expert marksmanship",

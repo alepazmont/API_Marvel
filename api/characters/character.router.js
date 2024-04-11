@@ -16,7 +16,7 @@ const { isAuth } = require("../middleware/auth.middleware")
 characterRouter.post("/", [isAuth], create)
 characterRouter.get("/:id", getOne)
 characterRouter.get("/", getAll)
-characterRouter.get("/name/:name", getOneByName)
+characterRouter.get("/search", getOneByName);
 characterRouter.patch("/:id", [isAuth], updateOne)
 characterRouter.delete("/:id", [isAuth], deleteOne)
 

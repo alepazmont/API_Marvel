@@ -41,16 +41,20 @@ const createAbilities = async (req, res, next) => {
     // Array de habilidades que deseas guardar en la base de datos
     const abilities = req.body;
 
-    // Responder con un mensaje de éxito
+    // Guardar cada habilidad en la base de datos
+    const createdAbilities = await Ability.create(abilities);
+
+    // Responder con un mensaje de éxito y las habilidades creadas
     res.status(201).json({
       status: 201,
       message: HTTPSTATUSCODE[201],
-      data: abilities,
+      data: createdAbilities,
     });
   } catch (error) {
     next(error);
   }
 };
+
 
 
 const updateAbility = async (req, res, next) => {
